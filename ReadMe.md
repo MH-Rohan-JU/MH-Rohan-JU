@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Frontend Web Development<br>🤝 I’m looking for Self-satisfaction<br>🌱 I’m currently learning JavaScript<br>💬 Don't ask me anything  <br>⚡ Fun fact: I hate CSS
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MH-Rohan-JU)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/m.h.rohan.331400) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohan70302@gmail.com) 
@@ -19,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MH-Rohan-JU&icon=0&color=1)](https://visitcount.itsvg.in)]
+[![](https://visitcount.itsvg.in/api?id=mh-rohan-ju&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!--
 # 💻 Tech Stack:
