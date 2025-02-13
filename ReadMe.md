@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MH-Rohan-JU&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MH-Rohan-JU&icon=0&color=1)](https://visitcount.itsvg.in)]
 
 <!--
 # 💻 Tech Stack:
