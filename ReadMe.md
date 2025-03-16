@@ -18,13 +18,11 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>-->
 
 ## 📊 GitHub Stats:
-<p align=center>
     
 ![](https://github-readme-stats.vercel.app/api?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MH-Rohan-JU&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=mh-rohan-ju&icon=6&color=0)](https://visitcount.itsvg.in)
 
