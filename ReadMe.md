@@ -14,7 +14,9 @@
 
 ## 🚀 Languages and Tools I Use
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cpp,java,npm,latex,git,github,discord,gmail,vscode,idea,vim,bash,windows,linux,ubuntu&perline=10" />
+    <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cpp,java,latex,git,github,discord,linkedin,gmail,vscode,idea,vim,bash,windows,linux,ubuntu&perline=10" />
+    </a>
 </p>
 <!--<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
