@@ -12,7 +12,7 @@
 <a href="https://www.leetcode.com/mh-rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mh-rohan" height="30" width="40" /></a>
 </p>
 
-## 🚀 Languages and Tools I Use
+## 🚀 Languages and Tools I've used
 <p align="center">
     <a href="https://github.com/tandpfun/skill-icons">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,solidity,latex,git,github,discord,linkedin,gmail,vscode,idea,vim,remix,bash,windows,linux,ubuntu&perline=11" />
