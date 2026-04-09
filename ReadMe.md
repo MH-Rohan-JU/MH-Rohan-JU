@@ -1,6 +1,5 @@
 # 💫 About Me:
-<!--🔭 I’m currently working on Blockchain Development<br>-->
-🤝 I’m looking for Self-satisfaction<br>🌱 I’m currently learning Life lessons<br>💬 Don't ask me anything  <br>⚡ Fun fact: I hate CSE
+🔭 I’m currently working on 🤫<br>🤝 I’m looking for Self-satisfaction<br>🌱 I’m currently learning Life lessons<br>💬 Don't ask me anything  <br>⚡ Fun fact: I myself is a fun fact.
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MH-Rohan-JU)
 
