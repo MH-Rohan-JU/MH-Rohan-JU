@@ -12,7 +12,8 @@
 <a href="https://www.leetcode.com/mh-rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mh-rohan" height="30" width="40" /></a>
 </p>
 
-## 🚀 Languages and Tools I've used
+<!--## 🚀 Languages and Tools I've used-->
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpsMTFyOWhpOXl1eWEyb3lrM3k4cTMxbHplenNxcWxzNTNmZnFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="30px"/> Languages and Tools I've used so far:</h2>
 <p align="center">
     <a href="https://github.com/tandpfun/skill-icons">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,solidity,latex,git,github,discord,linkedin,gmail,vscode,idea,vim,remix,bash,windows,linux,ubuntu&perline=11" />
@@ -26,7 +27,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>-->
 
 <!--## 📊 GitHub Stats:-->
-<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFzYm1yYTZ3dmJiZGcwd292cWc2eXliM2t6bTBwZWpnem1hOTByOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmBl8pvjfyYUszw1TS/giphy.gif" width="30px" margin="-10px"> Github Stats:</h2>
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFzYm1yYTZ3dmJiZGcwd292cWc2eXliM2t6bTBwZWpnem1hOTByOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmBl8pvjfyYUszw1TS/giphy.gif" width="30px"> Github Stats:</h2>
     
 ![](https://github-readme-stats.vercel.app/api?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MH-Rohan-JU&theme=github_dark&hide_border=true)<br/>
