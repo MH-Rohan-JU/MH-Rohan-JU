@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Currently working on 🤫<br>🤝 Looking for Self-satisfaction<br>🌱 Currently learning Life lessons<br>💬 Don't ask me anything  <br>⚡ Fun fact: I myself is a fun fact.
+<!--🔭 Currently working on 🤫<br>🤝 Looking for Self-satisfaction<br>🌱 Currently learning Life lessons<br>💬 Don't ask me anything  <br>⚡ Fun fact: I myself is a fun fact.-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Currently+working+on+Machine+Learning;Looking+for+self+satisfaction;+Currently+learning+life+lessons;+Don't+ask+me+anything!)](https://git.io/typing-svg)
+
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MH-Rohan-JU)
 
