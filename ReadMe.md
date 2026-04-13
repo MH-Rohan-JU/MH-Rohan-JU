@@ -32,7 +32,7 @@
 <!--## 📊 GitHub Stats:-->
 <h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFzYm1yYTZ3dmJiZGcwd292cWc2eXliM2t6bTBwZWpnem1hOTByOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmBl8pvjfyYUszw1TS/giphy.gif" width="30px"> Github Stats:</h2>
 
-<h align="center">
+<h2 align="center">
       
 ![](https://github-readme-stats.vercel.app/api?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MH-Rohan-JU&theme=github_dark&hide_border=true)<br/>
