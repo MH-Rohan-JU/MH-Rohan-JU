@@ -1,10 +1,9 @@
-# 💫 About Me:
+<h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcXVzMTk5a2Rhb2phZGl3OHcxbzdjMnZuZjc5cTVnc2R2bWZmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IqRYjzq9wYpY9rAKPk/giphy.gif" width="30px"/> About this user:</h1>
 <!--🔭 Currently working on 🤫<br>🤝 Looking for Self-satisfaction<br>🌱 Currently learning Life lessons<br>💬 Don't ask me anything  <br>⚡ Fun fact: I myself is a fun fact.-->
 
 <h2 align="center">
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Currently+working+on+Machine+Learning;Looking+for+self+satisfaction;+Currently+learning+life+lessons;+Don't+ask+me+anything!)](https://git.io/typing-svg)
-
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MH-Rohan-JU)
 
