@@ -3,7 +3,7 @@
 
 <h2 align="center">
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Currently+working+on+Machine+Learning;Looking+for+self+satisfaction;+Currently+learning+life+lessons;+Don't+ask+me+anything!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&font=saira&width=450&lines=Currently+working+on+Machine+Learning;Looking+for+self+satisfaction;+Currently+learning+life+lessons;+Don't+ask+me+anything!)](https://git.io/typing-svg)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MH-Rohan-JU)
 
@@ -36,8 +36,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MH-Rohan-JU&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MH-Rohan-JU&count_private=true&theme=tokyonight&showicons=true)]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mh-rohan-ju&icon=6&color=0)](https://visitcount.itsvg.in)
