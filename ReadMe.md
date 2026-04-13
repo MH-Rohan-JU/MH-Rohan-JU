@@ -3,7 +3,7 @@
 
 <h2 align="center">
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Currently+working+on+Machine+Learning;Looking+for+self+satisfaction;+Currently+learning+life+lessons;+Don't+ask+me+anything!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Currently+working+on+Machine+Learning;Looking+for+self+satisfaction;+Currently+learning+life+lessons;+Don't+ask+me+anything!)](https://git.io/typing-svg)<br>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MH-Rohan-JU)
 
 ## 🌐 Socials:
