@@ -17,7 +17,7 @@
 </p>
 
 <!--## 🚀 Languages and Tools I've used-->
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpsMTFyOWhpOXl1eWEyb3lrM3k4cTMxbHplenNxcWxzNTNmZnFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="30px"/> Languages and Tools I've used so far:</h2>
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThnd3Iwd2tvbGVwdDgxYXU0OG9tbzdlNTd4dmJkcGJlbm1tODNvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30px"/> Languages and Tools I've used so far:</h2>
 <p align="center">
     <a href="https://github.com/tandpfun/skill-icons">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,solidity,latex,git,github,discord,linkedin,gmail,vscode,idea,vim,remix,bash,windows,linux,ubuntu&perline=11" />
@@ -37,7 +37,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MH-Rohan-JU&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MH-Rohan-JU&show_icons=true&theme=github_dark)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MH-Rohan-JU&count_private=true&theme=tokyonight&showicons=true)]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mh-rohan-ju&icon=6&color=0)](https://visitcount.itsvg.in)
