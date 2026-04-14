@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Currently+working+on+Machine+Learning;Looking+for+self+satisfaction;+Currently+learning+life+lessons;+Don't+ask+me+anything!)](https://git.io/typing-svg)<br>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MH-Rohan-JU)
 
+<!--
 ## 🌐 Socials:
 <p align="center">
 <a href="https://linkedin.com/in/m-h-rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-h-rohan" height="30" width="40" /></a>
@@ -14,6 +15,7 @@
 <a href="https://codeforces.com/profile/mh_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mh_rohan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mh-rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mh-rohan" height="30" width="40" /></a>
 </p>
+-->
 
 <!--## 🚀 Languages and Tools I've used-->
 <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThnd3Iwd2tvbGVwdDgxYXU0OG9tbzdlNTd4dmJkcGJlbm1tODNvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30px"/> Languages and Tools I've used so far:</h2>
