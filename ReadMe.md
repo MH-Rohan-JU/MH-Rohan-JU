@@ -1,7 +1,7 @@
 <h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcXVzMTk5a2Rhb2phZGl3OHcxbzdjMnZuZjc5cTVnc2R2bWZmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IqRYjzq9wYpY9rAKPk/giphy.gif" width="30px"/> About this user:</h1>
 <!--🔭 Currently working on 🤫<br>🤝 Looking for Self-satisfaction<br>🌱 Currently learning Life lessons<br>💬 Don't ask me anything  <br>⚡ Fun fact: I myself is a fun fact.-->
 
-<h2 align="center">
+<h1 align="center">
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Currently+working+on+Machine+Learning;Looking+for+self+satisfaction;+Currently+learning+life+lessons;+Don't+ask+me+anything!)](https://git.io/typing-svg)<br>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MH-Rohan-JU)
@@ -18,7 +18,7 @@
 -->
 
 <!--## 🚀 Languages and Tools I've used-->
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThnd3Iwd2tvbGVwdDgxYXU0OG9tbzdlNTd4dmJkcGJlbm1tODNvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30px"/> Languages and Tools I've used so far:</h2>
+<h1><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThnd3Iwd2tvbGVwdDgxYXU0OG9tbzdlNTd4dmJkcGJlbm1tODNvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30px"/> Languages and Tools I've used so far:</h1>
 <p align="center">
     <a href="https://github.com/tandpfun/skill-icons">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,solidity,latex,git,github,discord,linkedin,gmail,vscode,idea,vim,remix,bash,windows,linux,ubuntu&perline=11" />
@@ -32,9 +32,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>-->
 
 <!--## 📊 GitHub Stats:-->
-<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFzYm1yYTZ3dmJiZGcwd292cWc2eXliM2t6bTBwZWpnem1hOTByOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmBl8pvjfyYUszw1TS/giphy.gif" width="30px"> Github Stats:</h2>
+<h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFzYm1yYTZ3dmJiZGcwd292cWc2eXliM2t6bTBwZWpnem1hOTByOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmBl8pvjfyYUszw1TS/giphy.gif" width="30px"> Github Stats:</h1>
 
-<h2 align="center">
+<h1 align="center">
       
 ![](https://github-readme-stats.vercel.app/api?username=MH-Rohan-JU&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MH-Rohan-JU&theme=github_dark&hide_border=true)<br/>
